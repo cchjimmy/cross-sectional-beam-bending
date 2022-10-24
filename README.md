@@ -1,5 +1,5 @@
 # cross-sectional-beam-bending
-This can analyse a user defined shape (with only rectangle primatives for now), and display information about the cross-section on screen.
+This can analyse a user defined shape (with only rectangle primitives for now), and display information about the cross-section on screen.
 
 See GitHub Pages for an example.
 
