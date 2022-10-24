@@ -10,3 +10,6 @@ This can calculate:
 + Second moment of area in principal axis
 
 After the calculations are completed, illustrations will be drawn.
+
+# Things to keep in mind
++ Do not overlap rectangles when defining your shape.
